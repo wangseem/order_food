@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/SplashPage",
+    "pages/LoginPage",
+    "pages/RegistPage",
+    "pages/MainPage",
+    "pages/fragment/MineFragment",
+    "pages/fragment/CartFragment",
+    "pages/fragment/FoodListFragment",
+    "pages/fragment/HomeFragment",
+    "pages/componentbase/ScrollPage"
+  ]
+}
